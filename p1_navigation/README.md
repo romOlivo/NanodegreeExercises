@@ -41,3 +41,5 @@ Follow the instructions in `Navigation.ipynb` to get started with training your 
 ### Results
 
 The objective of the project is train a model to have 13 average score in 100 consecutive episodes. Our model can achieve this objective in less than 600 episodes, but the trained agent have some problems. For example, agent can not leave a wall when it hit them. To avoid this problems, we get more time to train the agent and set the minimum average score to 15.
+
+We solve the environment in 562 episodes. To see more details, see the Report.pdf file.
